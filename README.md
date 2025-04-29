@@ -1,4 +1,4 @@
-# Body-Fat-Predictive-Model-for-Medical-Diagnosis
+
 This project aims to develop a simple, accessible, and reliable model to predict body fat percentage using only basic body measurements. The model is designed for practical medical or personal health use without relying on expensive or invasive methods like hydrostatic weighing or DXA scans.
 
 📌 Project Overview
